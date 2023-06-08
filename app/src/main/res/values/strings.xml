@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">MovieInfoApp</string>
+    <string name="movies">Movies</string>
+    <string name="noMoviesFound">No movies found</string>
+    <string name="commonErrorMessage">Something went wrong. Please try again later.</string>
 </resources>

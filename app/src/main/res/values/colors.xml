@@ -7,4 +7,12 @@
     <color name="teal_700">#FF018786</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    <color name="transparency_black">#80000000</color>
+    <color name="movie_title_color">#BBB8DC</color>
+    <color name="boarder_color">#B8ACFF</color>
+    <color name="transparent">#FFE8E4FF</color>
+    <color name="endGradientColor">#FFE8E4FF</color>
+    <color name="startGradientColor">#FFF4F2FF</color>
+    <color name="startGradientColorSearch">#FFF7EE</color>
+    <color name="endGradientColorSearch">#FFF4E7</color>
 </resources>

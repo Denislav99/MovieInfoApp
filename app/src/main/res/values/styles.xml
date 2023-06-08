@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="MovieTitleStyle">
+        <item name="android:fontFamily">@font/inter_medium</item>
+        <item name="android:ellipsize">end</item>
+        <item name="android:maxLines">1</item>
+        <item name="android:textColor">@color/black</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:textStyle">normal</item>
+    </style>
+
+    <style name="GenreBaseStyle">
+        <item name="android:fontFamily">@font/inter_medium</item>
+        <item name="android:maxLines">1</item>
+        <item name="android:textColor">@color/transparency_black</item>
+
+        <item name="android:textStyle">normal</item>
+    </style>
+
+    <style name="GenreTimeStyle" parent="GenreBaseStyle">
+        <item name="android:textSize">8sp</item>
+    </style>
+
+    <style name="GenreDetailTimeStyle" parent="GenreBaseStyle">
+        <item name="android:textSize">18sp</item>
+    </style>
+
+    <style name="DescriptionStyle">
+        <item name="android:fontFamily">@font/inter_regular</item>
+        <item name="android:ellipsize">end</item>
+        <item name="android:maxLines">5</item>
+        <item name="android:textColor">@color/black</item>
+        <item name="android:textSize">10sp</item>
+        <item name="android:textStyle">normal</item>
+    </style>
+
+    <style name="ScreenHeadingMovies">
+        <item name="android:fontFamily">@font/inter_bold</item>
+        <item name="android:text">@string/movies</item>
+        <item name="android:maxLines">1</item>
+        <item name="android:textColor">@color/movie_title_color</item>
+        <item name="android:textSize">52sp</item>
+        <item name="android:textStyle">normal</item>
+    </style>
+
+    <style name="DisplayMovieTitleStyle">
+        <item name="android:fontFamily">@font/inter_medium</item>
+        <item name="android:maxLines">3</item>
+        <item name="android:textColor">@color/black</item>
+        <item name="android:textSize">32sp</item>
+        <item name="android:textStyle">normal</item>
+    </style>
+
+    <style name="DetailsDescriptionStyle">
+        <item name="android:fontFamily">@font/inter_regular</item>
+        <item name="android:textColor">@color/black</item>
+        <item name="android:textSize">15sp</item>
+        <item name="android:textStyle">normal</item>
+    </style>
+
+</resources>
